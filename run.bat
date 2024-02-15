@@ -1,0 +1,3 @@
+@echo off
+echo Starting scrapeee...
+F:\command\RunHiddenConsole\bin\x64\RunHiddenConsole.exe python main.py
